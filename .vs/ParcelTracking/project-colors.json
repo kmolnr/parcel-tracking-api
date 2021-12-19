@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "831c8c1c-0950-4029-94f7-eec7daf44ee2": {
+      "ProjectGuid": "831c8c1c-0950-4029-94f7-eec7daf44ee2",
+      "DisplayName": "ParcelTracking.EFCore",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "02d1a306-50f9-420d-837f-eeb98cc10faf": {
+      "ProjectGuid": "02d1a306-50f9-420d-837f-eeb98cc10faf",
+      "DisplayName": "ParcelTracking.API",
+      "ColorIndex": 1
+    },
+    "3bb67634-9398-496b-ac33-336ddbbec559": {
+      "ProjectGuid": "3bb67634-9398-496b-ac33-336ddbbec559",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,14 @@
+C:\Users\Krisztián\source\repos\ParcelTracking\ParcelTracking.EFCore\obj\Debug\net6.0\ParcelTracking.EFCore.csproj.AssemblyReference.cache
+C:\Users\Krisztián\source\repos\ParcelTracking\ParcelTracking.EFCore\obj\Debug\net6.0\ParcelTracking.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krisztián\source\repos\ParcelTracking\ParcelTracking.EFCore\obj\Debug\net6.0\ParcelTracking.EFCore.AssemblyInfoInputs.cache
+C:\Users\Krisztián\source\repos\ParcelTracking\ParcelTracking.EFCore\obj\Debug\net6.0\ParcelTracking.EFCore.AssemblyInfo.cs
+C:\Users\Krisztián\source\repos\ParcelTracking\ParcelTracking.EFCore\obj\Debug\net6.0\ParcelTracking.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\Krisztián\source\repos\ParcelTracking\ParcelTracking.EFCore\bin\Debug\net6.0\ParcelTracking.EFCore.deps.json
+C:\Users\Krisztián\source\repos\ParcelTracking\ParcelTracking.EFCore\bin\Debug\net6.0\ParcelTracking.EFCore.runtimeconfig.json
+C:\Users\Krisztián\source\repos\ParcelTracking\ParcelTracking.EFCore\bin\Debug\net6.0\ParcelTracking.EFCore.dll
+C:\Users\Krisztián\source\repos\ParcelTracking\ParcelTracking.EFCore\bin\Debug\net6.0\ref\ParcelTracking.EFCore.dll
+C:\Users\Krisztián\source\repos\ParcelTracking\ParcelTracking.EFCore\bin\Debug\net6.0\ParcelTracking.EFCore.pdb
+C:\Users\Krisztián\source\repos\ParcelTracking\ParcelTracking.EFCore\obj\Debug\net6.0\ParcelTracking.EFCore.dll
+C:\Users\Krisztián\source\repos\ParcelTracking\ParcelTracking.EFCore\obj\Debug\net6.0\ref\ParcelTracking.EFCore.dll
+C:\Users\Krisztián\source\repos\ParcelTracking\ParcelTracking.EFCore\obj\Debug\net6.0\ParcelTracking.EFCore.pdb
+C:\Users\Krisztián\source\repos\ParcelTracking\ParcelTracking.EFCore\obj\Debug\net6.0\ParcelTracking.EFCore.genruntimeconfig.cache
